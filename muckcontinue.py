@@ -7,15 +7,16 @@ print(praw.__version__)
 
 Muck_list = ["muck", "muck.", "muck!", "muck?",
              "mück", "mück.", "mück!", "mück?",
-             "m u c k", "m\*ck", "kcum"]
+             "m u c k", "m\*ck", "kcum", "muk",
+             "muuck"]
 
 # initialize with appropriate values
 client_id = ""
 client_secret = ""
-username = "DaniDevChainBreaker"
+username = "MuckMuckHAH"
 password = ""
-user_agent = "u/hananelroe's comment chains breaker bot"
-comment_content = "muck? muck! M u C k     k C u M"
+user_agent = "mukc is intentional"
+comment_content = "mukc?! M u C k     k C u M"
 
 while True:
     # creating an authorized reddit instance
