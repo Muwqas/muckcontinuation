@@ -11,8 +11,8 @@ Muck_list = ["muck", "muck.", "muck!", "muck?",
              "muuck"]
 
 # initialize with appropriate values
-client_id = ""
-client_secret = ""
+client_id = "Kz_y6o52smD7J8A2XOu84g"
+client_secret = "5Mxz0oVapdHQmTZW1p_SsooYsr3eGA"
 username = "MuckMuckHAH"
 password = ""
 user_agent = "mukc is intentional"
