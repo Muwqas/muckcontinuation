@@ -1,4 +1,4 @@
-# this bot was made by u/hananelroe on reddit
+# this bot was made by u/hananelroe on reddit and changed by u/Muwqas_Boner
 import thefuzz.fuzz as fuzz
 from thefuzz import *
 import praw
